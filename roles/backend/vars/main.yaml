@@ -2,3 +2,4 @@ login_host: db.praveenmech.online
 login_password: ExpenseApp@1
 DB_HOST: db.praveenmech.online
 component: backend
+app_location: /app
